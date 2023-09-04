@@ -1,0 +1,15 @@
+1. install node js
+
+https://nodejs.org/en/download
+
+to check node js is installed or nor
+
+cmd prompt  node -v
+
+2. install vs code
+
+https://code.visualstudio.com/download
+
+3. install typescript
+
+npm install -g typescript
